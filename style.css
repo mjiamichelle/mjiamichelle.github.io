@@ -1,5 +1,6 @@
 body{
   background-color: white;
+  font-family: 'Source Serif Pro', serif;
 }
 
 
@@ -9,20 +10,21 @@ h1{
 
   text-align: center;
   font-size: 40px;
+  font-family: 'Source Sans Pro', sans-serif;
 }
 
 ul{
 
 list-style-type: none;
-
+text-align: center;
 }
 
 li{
 
 display:inline;
 
-padding-left: 5px; 
-padding-right:5px;
+padding-left: 15px;
+padding-right:15px;
 }
 
 img{
@@ -40,4 +42,11 @@ margin: 0 auto ;
 
 
 
+}
+
+a{
+  text-decoration: none;
+  color:black;
+  font-size: 1.2em;
+  font-family: 'Source Sans Pro', sans-serif;
 }
