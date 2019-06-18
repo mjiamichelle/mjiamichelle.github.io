@@ -33,6 +33,12 @@ margin: 0 auto ;
 display: block;
 
 }
+
+#profile-img{
+  clip-path: circle(40%);
+
+
+}
 div.content{
 
 
