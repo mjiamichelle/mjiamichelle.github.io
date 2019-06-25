@@ -4,11 +4,9 @@ html{
 }
 
 body{
-  background-color: white;
   background: url(cover_dark.png) no-repeat center center fixed;
   background-size: cover;
   color:white;
-
   font-family: 'Source Sans Pro', sans-serif;
 }
 
