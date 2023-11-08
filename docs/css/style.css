@@ -230,8 +230,9 @@ h3 {
   justify-content: bottom;
 }
 
-#teaching .center {
+#teaching .email {
   text-align: center;
+  margin-bottom: 50px;
 }
 #teaching .nospam {
   display: none;
