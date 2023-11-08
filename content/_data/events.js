@@ -15,6 +15,6 @@ module.exports = [
     date: "2024-01-26 12:00",
     title: "Solo Recital",
     location: "Athens, GA",
-    time: "7:30pm",
+    time: "5:30pm",
   }
 ];
