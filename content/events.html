@@ -5,8 +5,10 @@ title: events
 <div class="content-container">
   <h1>Upcoming Events</h1>
 
+  {% assign today = 'now' | date: '%s' %}
   {% for e in events %}
-  <div class="event">
+  {% assign d = e.date | date: '%s' %}
+  <div class="event{% if d < today %} past{% endif %}">
     <div class="datebox">
       <div class="date">{{ e.date | date: "%d" }}</div>
       <div class="right">

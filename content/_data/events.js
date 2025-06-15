@@ -1,5 +1,17 @@
 module.exports = [
   {
+    date: "2025-06-09 12:00",
+    title: "NSMTA Annual Teachers Recital",
+    location: "Wilmette, IL",
+    time: "10:30am",
+  },
+  {
+    date: "2025-04-27 12:00",
+    title: "Oakton Six Piano Ensemble",
+    location: "Des Plaines, IL",
+    time: "03:00pm",
+  },
+  {
     date: "2025-01-25 12:00",
     title: "Performance at Steinway Gallery",
     location: "Hinsdale, IL",
@@ -12,9 +24,21 @@ module.exports = [
     time: "05:30pm",
   },
   {
-    date: "2025-04-27 12:00",
-    title: "Oakton Six Piano Ensemble",
-    location: "Des Plaines, IL",
-    time: "03:00pm",
+    date: "2024-01-26 12:00",
+    title: "Solo Recital",
+    location: "Athens, GA",
+    time: "5:30pm",
   },
+  {
+    date: "2024-01-22 12:00",
+    title: "Beethoven Violin Sonata Series at UGA",
+    location: "Athens, GA",
+    time: "7:30pm",
+  },
+  {
+    date: "2023-12-04 12:00",
+    title: "Studio Recital",
+    location: "Athens, GA",
+    time: "7:30pm",
+  }
 ];
