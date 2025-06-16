@@ -7,14 +7,14 @@ body {
   font-family: "Source Sans Pro", sans-serif;
 }
 body.home {
-  background: url(/img/concert_dark.jpg) no-repeat center center fixed;
+  background: url(/img/cover.jpg) no-repeat center 20% fixed;
   background-size: cover;
   background-color: black;
   color: white;
 }
 @media only screen and (max-width: 600px) {
   body.home {
-    background: url(/img/concert_dark_600.jpg) no-repeat center center fixed;
+    background: url(/img/cover_600.jpg) no-repeat center center fixed;
     background-size: cover;
   }
 }
@@ -173,9 +173,6 @@ h3 {
 #events .event {
   display: flex;
   flex-direction: row;
-}
-#events .event.past {
-  color: #b5bab6;
 }
 #events .event-info {
   padding-top: 10px;
