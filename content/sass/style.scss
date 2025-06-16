@@ -11,10 +11,10 @@ body {
   font-family: 'Source Sans Pro', sans-serif;
 
   &.home {
-    background: url(/img/cover.jpg) no-repeat center 20% fixed;
+    background: url(/img/cover.jpg) no-repeat center center fixed;
     background-size: cover;
     @media only screen and (max-width: 600px) {
-      background: url(/img/cover_600.jpg) no-repeat center center fixed;
+      background: url(/img/cover.jpg) no-repeat 30% center fixed;
       background-size: cover;
     }
 
