@@ -1,9 +1,21 @@
 module.exports = [
   {
+    date: "2026-02-07 12:00",
+    title: "Chinese New Year Concert at Steinway Gallery",
+    location: "Chicago, IL",
+    time: "12:00pm",
+  },
+  {
     date: "2026-01-31 12:00",
     title: "Meng Studio Student Recital at Steinway Gallery",
     location: "Hinsdale, IL",
     time: "05:30pm",
+  },
+  {
+    date: "2026-01-26 12:00",
+    title: "NSMTA Monthly",
+    location: "Northfield, IL",
+    time: "09:30am",
   },
   {
     date: "2025-11-11 12:00",
