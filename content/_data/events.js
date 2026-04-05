@@ -1,5 +1,11 @@
 module.exports = [
   {
+    date: "2026-04-04 12:00",
+    title: "If Music be the Food at University of Chicago",
+    location: "Chicago, IL",
+    time: "07:30pm",
+  },
+  {
     date: "2026-02-07 12:00",
     title: "Chinese New Year Concert at Steinway Gallery",
     location: "Chicago, IL",
